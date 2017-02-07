@@ -1,0 +1,103 @@
+.col{
+	border-color: white 5px;
+}
+.project{
+	background-image: url("Resources/images/pic14.jpg");
+	 padding-top: 250px;
+    padding-right: 30px;
+    padding-bottom: 250px;
+    padding-left: 80px; 
+}
+.white{
+	font-family: "serif";
+	font-size: 80px;
+	color: white;
+}
+.color{
+	color:white;
+}
+
+ .middle{
+ 
+    padding-top: 150px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.intrests{
+	border: solid black;
+	background-color: yellow;
+}
+
+.intrest{
+	background-image: url("Resources/images/pic12.jpg"); 
+}
+.font{
+	font-family: "serif";
+	font-size: 70px;
+	color: blue;
+}
+.bod{
+	font-family: "arial";
+	font-size: 40px;
+	color: green;
+}
+
+.main{
+	background-image: url("Resources/images/pic12.jpg");
+	 padding-top: 150px;
+    padding-right: 30px;
+    padding-bottom: 150px;
+    padding-left: 30px; 
+
+}
+
+}
+.h2{
+	font-family: "arial";
+	font-size: 50px;
+	color: light blue;
+	text-decoration: underline;
+
+}
+.hobbies{
+	background-image: url("Resources/images/pic5.jpg");
+	 padding-top: 150px;
+    padding-right: 30px;
+    padding-bottom: 150px;
+    padding-left: 30px;
+
+}
+.p{
+	font-family: "arial";
+	font-size: 30px;
+	color: black;
+
+}
+.contact{
+	background-image: url("Resources/images/pic20.jpg");
+	 padding-top: 250px;
+    padding-right: 30px;
+    padding-bottom: 250px;
+    padding-left: 30px;
+    font-family: "arial";
+	font-size: 70px;
+	color: silver;
+
+
+
+}
+.co{
+	font-family: "arial";
+	font-size: 30px;
+	color: red;
+
+}
+.kev{
+	background-image: url("Resources/images/pen.jpg");
+	 padding-top: 250px;
+    padding-right: 30px;
+    padding-bottom: 250px;
+    padding-left: 30px;
+}
